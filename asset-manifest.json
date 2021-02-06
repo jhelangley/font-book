@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/font-book/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/font-book/static/js/main.0abe76be.chunk.js",
-    "main.js.map": "/font-book/static/js/main.0abe76be.chunk.js.map",
+    "main.js": "/font-book/static/js/main.017b5186.chunk.js",
+    "main.js.map": "/font-book/static/js/main.017b5186.chunk.js.map",
     "runtime-main.js": "/font-book/static/js/runtime-main.ff213f69.js",
     "runtime-main.js.map": "/font-book/static/js/runtime-main.ff213f69.js.map",
     "static/js/2.59366202.chunk.js": "/font-book/static/js/2.59366202.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ff213f69.js",
     "static/js/2.59366202.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.0abe76be.chunk.js"
+    "static/js/main.017b5186.chunk.js"
   ]
 }
