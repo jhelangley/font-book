@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/font-book/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/font-book/static/js/main.0abe76be.chunk.js",
+    "main.js.map": "/font-book/static/js/main.0abe76be.chunk.js.map",
+    "runtime-main.js": "/font-book/static/js/runtime-main.ff213f69.js",
+    "runtime-main.js.map": "/font-book/static/js/runtime-main.ff213f69.js.map",
+    "static/js/2.59366202.chunk.js": "/font-book/static/js/2.59366202.chunk.js",
+    "static/js/2.59366202.chunk.js.map": "/font-book/static/js/2.59366202.chunk.js.map",
+    "static/js/3.589ee324.chunk.js": "/font-book/static/js/3.589ee324.chunk.js",
+    "static/js/3.589ee324.chunk.js.map": "/font-book/static/js/3.589ee324.chunk.js.map",
+    "index.html": "/font-book/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/font-book/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.59366202.chunk.js.LICENSE.txt": "/font-book/static/js/2.59366202.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/font-book/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff213f69.js",
+    "static/js/2.59366202.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0abe76be.chunk.js"
+  ]
+}
